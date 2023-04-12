@@ -271,3 +271,16 @@ HTTP 1.1 и HTTP 2 - это две различные версии проток�
 В целом, HTTP 2 является более эффективной и быстрой версией протокола HTTP, чем HTTP 1.1.
   
 </details>
+
+14. Алгоритмы балансировки трафика.
+
+<details>
+  <summary>Ответ</summary>
+ 
+- Round Robin
+- Weighted Round Robin
+- Least Connections
+- Destination Hash Scheduling и Source Hash Scheduling
+- Sticky Sessions
+
+</details>
